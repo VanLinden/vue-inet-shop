@@ -1,4 +1,4 @@
-# adopt-pets
+# vue-inet-shop
 
 ## Project setup
 ```
